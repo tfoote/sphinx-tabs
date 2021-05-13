@@ -1,3 +1,12 @@
+DEPRECATED FORK
+===============
+
+This fork is deprecated there is a config option which can enable this without the patch. 
+
+https://github.com/executablebooks/sphinx-tabs/pull/53#issuecomment-675740054
+
+
+
 sphinx-tabs [![Build Status](https://travis-ci.org/djungelorm/sphinx-tabs.svg?branch=master)](https://travis-ci.org/djungelorm/sphinx-tabs)
 ========================================
 
